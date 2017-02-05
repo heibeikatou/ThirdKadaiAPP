@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		771C9DBE1E463EEE004CC7ED /* KAKUDAI_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771C9DBD1E463EEE004CC7ED /* KAKUDAI_ViewController.swift */; };
 		773D21171E3F436100DACE77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773D21161E3F436100DACE77 /* AppDelegate.swift */; };
 		773D21191E3F436100DACE77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773D21181E3F436100DACE77 /* ViewController.swift */; };
 		773D211C1E3F436200DACE77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 773D211A1E3F436200DACE77 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		771C9DBD1E463EEE004CC7ED /* KAKUDAI_ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KAKUDAI_ViewController.swift; sourceTree = "<group>"; };
 		773D21131E3F436100DACE77 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		773D21161E3F436100DACE77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		773D21181E3F436100DACE77 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				773D21161E3F436100DACE77 /* AppDelegate.swift */,
 				773D21181E3F436100DACE77 /* ViewController.swift */,
 				773D211A1E3F436200DACE77 /* Main.storyboard */,
+				771C9DBD1E463EEE004CC7ED /* KAKUDAI_ViewController.swift */,
 				773D211D1E3F436200DACE77 /* Assets.xcassets */,
 				773D211F1E3F436200DACE77 /* LaunchScreen.storyboard */,
 				773D21221E3F436200DACE77 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				771C9DBE1E463EEE004CC7ED /* KAKUDAI_ViewController.swift in Sources */,
 				773D21191E3F436100DACE77 /* ViewController.swift in Sources */,
 				773D21171E3F436100DACE77 /* AppDelegate.swift in Sources */,
 			);
@@ -302,6 +306,7 @@
 				773D21271E3F436200DACE77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
